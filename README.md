@@ -8,8 +8,6 @@ Hi, I'm Jibraan Attar, a passionate and curious MSc Data Science student at Savi
 
 - 🎓 MSc Data Science | BSc Statistics
 - 🔍 Interested in Machine Learning, Deep Learning, Big Data, and Computer Vision
-- 📊 Working on final-year project: **Automated Loan Default Prediction & Risk Assessment** using **AutoML**
-- 🤖 Also building: Crack Detection & Severity Classification using **YOLOv5 + CNN**
 - 💡 Always exploring new tools and technologies
 
 ---
@@ -28,3 +26,6 @@ Hi, I'm Jibraan Attar, a passionate and curious MSc Data Science student at Savi
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+![image](https://github.com/user-attachments/assets/63a2f639-d571-4113-8b51-961aecec9cfa)
+
