@@ -27,5 +27,6 @@ Hi, I'm Jibraan Attar, a passionate and curious MSc Data Science student at Savi
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-![image](https://github.com/user-attachments/assets/63a2f639-d571-4113-8b51-961aecec9cfa)
+Linkedin www.linkedin.com/in/jibraan-attara372
+email-id-jibraanattar55@gmail.com
 
