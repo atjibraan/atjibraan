@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!
 
-Hi, I'm Jibraan Attar, a passionate and curious MSc Data Science student at Savitribai Phule Pune University. I enjoy solving real-world problems using data, AI, and software. Welcome to my GitHub profile, where I share my academic, personal, and collaborative projects.
+Hi, I'm Jibraan Attar, a passionate and curious MSc Data Science post graduate from Savitribai Phule Pune University. I enjoy solving real-world problems using data, AI, and software. Welcome to my GitHub profile, where I share my academic, personal, and collaborative projects.
 
 ---
 
