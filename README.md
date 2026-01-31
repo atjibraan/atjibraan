@@ -30,4 +30,5 @@ Hi, I'm Jibraan Attar, a passionate and curious MSc Data Science post graduate f
 Linkedin www.linkedin.com/in/jibraan-attara372
 email-id-jibraanattar55@gmail.com
 https://atjibraan.github.io/
+https://www.notion.so/Jibraan-Attar-Data-Scientist-AI-Enthusiast-2a595218513f80498fd5dd8209011e1a
 
