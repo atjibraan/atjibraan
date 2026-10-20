@@ -1,18 +1,9 @@
-<!-- Animated wave header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jibraan%20Attar&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%2FML%20Engineer%20%7C%20GenAI%20%7C%20Computer%20Vision&descSize=18&descAlignY=58" />
+  <img src="./assets/banner.svg" width="100%" alt="Jibraan Attar, AI engineer: LLM evaluation, RAG pipelines, computer vision" />
 </p>
 
-<!-- Round avatar -->
 <p align="center">
-  <img src="https://images.weserv.nl/?url=github.com/atjibraan.png&w=160&h=160&fit=cover&mask=circle" width="160" alt="Jibraan Attar" />
-</p>
-
-<!-- Typing animation -->
-<p align="center">
-  <a href="https://github.com/atjibraan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Developer+%40+DataToBiz+%F0%9F%9A%80;Building+LLM+grading+%26+evaluation+pipelines;RAG+%7C+LangChain+%7C+LangGraph;Computer+Vision+with+YOLO+%26+ResNet;Took+LLM+grading+accuracy+from+88%25+%E2%86%92+97%25" alt="Typing SVG" />
-  </a>
+  <img src="https://images.weserv.nl/?url=github.com/atjibraan.png&w=150&h=150&fit=cover&mask=circle" width="150" alt="Jibraan Attar" />
 </p>
 
 <p align="center">
@@ -26,17 +17,14 @@
 
 ## 🚀 About Me
 
-```python
-class JibraanAttar:
-    role       = "AI Developer @ DataToBiz, Pune"
-    building   = "PrepAI: LLM answer grading, transcript ingestion, speech-to-text"
-    focus      = ["LLM Evaluation", "RAG", "Prompt Engineering", "Computer Vision"]
-    education  = {
-        "MSc Data Science": "Savitribai Phule Pune University (CGPA 9.64)",
-        "BSc Statistics":   "Modern College, Pune (CGPA 8.65)",
-    }
-    philosophy = "If you can't measure it, you can't ship it."
-```
+<p align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Terminal showing my LLM grading evaluation run: accuracy 88% to 97% on a 35-case benchmark" />
+</p>
+
+I'm an AI Developer at DataToBiz. I build LLM systems that are **measured, not guessed**: every change to a prompt or model goes through an evaluation harness before it ships.
+
+- 🎓 MSc Data Science, Savitribai Phule Pune University (CGPA 9.64)
+- 🎓 BSc Statistics, Modern College Pune (CGPA 8.65)
 
 ---
 
@@ -120,18 +108,10 @@ Customizable Stable Diffusion pipeline with configurable inference settings and 
   <img height="170" src="https://streak-stats.demolab.com?user=atjibraan&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atjibraan&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
-
 <!-- Snake eating contributions (needs the snake.yml workflow) -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atjibraan/atjibraan/output/github-snake-dark.svg" />
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/atjibraan/atjibraan/output/github-snake.svg" />
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 </p>
